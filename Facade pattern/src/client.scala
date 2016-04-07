@@ -1,5 +1,5 @@
 /**
-  * Created by admin-k on 2016/4/7.
+  * Created by admin-k on 2016/4/8.
   */
 object client extends App{
   /*
@@ -22,7 +22,7 @@ object client extends App{
   nd1.sell()
   rt1.sell()
   */
-//外觀模式
+  //外觀模式
   val fund = new Fund
   fund.buyFund()
   fund.sellFund()
