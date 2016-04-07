@@ -1,6 +1,7 @@
 /**
   * Created by admin on 2016/2/27.
   */
+
 object simpleFactory extends App {
   try {
     println("請輸入數字A: ")
